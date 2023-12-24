@@ -4,6 +4,6 @@ A Common Lisp logging framework using the piping library.
 
 |---------+---------------------------------------------|
 | source  | git:https://github.com/Shinmera/verbose.git |
-| commit  | b1a4d14                                     |
+| commit  | fae1b64                                     |
 | systems | verbose                                     |
 |---------+---------------------------------------------|
