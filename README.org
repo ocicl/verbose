@@ -3,7 +3,7 @@
 A Common Lisp logging framework using the piping library.
 
 |---------+---------------------------------------------|
-| source  | git:https://github.com/Shinmera/verbose.git |
-| commit  | abfcb3e                                     |
+| source  | git:https://codeberg.org/shinmera/verbose.git |
+| commit  | 0000000                                     |
 | systems | verbose                                     |
 |---------+---------------------------------------------|
